@@ -1,7 +1,11 @@
 import React from "react";
+import ClassDeckFetch from "./components/ClassDeckFetch";
 
 function App() {
-  return <div></div>;
+  return (<div>
+<ClassDeckFetch />
+  </div>
+  )
 }
 
 export default App;
