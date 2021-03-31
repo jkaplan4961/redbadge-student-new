@@ -13,7 +13,7 @@ import {
 const Store = (props) => {
   return (
     <Container>
-      <h2>This is our online store</h2>
+      <h2>hello This is our online store</h2>
       <CardGroup>
         <Card>
           <CardImg
